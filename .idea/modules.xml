@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2D-Array/2D-Array.iml" filepath="$PROJECT_DIR$/2D-Array/2D-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding/Coding.iml" filepath="$PROJECT_DIR$/Coding/Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurancy/Concurancy.iml" filepath="$PROJECT_DIR$/Concurancy/Concurancy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava/CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.iml" filepath="$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattrens/DesignPattrens.iml" filepath="$PROJECT_DIR$/DesignPattrens/DesignPattrens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gragh/Gragh.iml" filepath="$PROJECT_DIR$/Gragh/Gragh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviwAlogorithams/InterviwAlogorithams.iml" filepath="$PROJECT_DIR$/InterviwAlogorithams/InterviwAlogorithams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTesting.iml" filepath="$PROJECT_DIR$/JavaTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeekCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeekCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Premp/Premp.iml" filepath="$PROJECT_DIR$/Premp/Premp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bfs-dfs/bfs-dfs.iml" filepath="$PROJECT_DIR$/bfs-dfs/bfs-dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-programing-recursion/dynamic-programing-recursion.iml" filepath="$PROJECT_DIR$/dynamic-programing-recursion/dynamic-programing-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree/tree.iml" filepath="$PROJECT_DIR$/tree/tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing/untitled.iml" filepath="$PROJECT_DIR$/Testing/untitled.iml" />
+    </modules>
+  </component>
+</project>
