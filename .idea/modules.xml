@@ -13,7 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaTesting.iml" filepath="$PROJECT_DIR$/JavaTesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeekCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeekCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Premp/Premp.iml" filepath="$PROJECT_DIR$/Premp/Premp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting-Searching/Sorting-Searching.iml" filepath="$PROJECT_DIR$/Sorting-Searching/Sorting-Searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/bfs-dfs/bfs-dfs.iml" filepath="$PROJECT_DIR$/bfs-dfs/bfs-dfs.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamic-programing-recursion/dynamic-programing-recursion.iml" filepath="$PROJECT_DIR$/dynamic-programing-recursion/dynamic-programing-recursion.iml" />

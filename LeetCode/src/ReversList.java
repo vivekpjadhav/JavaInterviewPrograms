@@ -26,16 +26,15 @@ public class ReversList {
     }
 
     static ListNode revList(ListNode head) {
-        ListNode end = null;
-        ListNode curr = head;
-        while (curr != null) {
-            ListNode temp = curr.next;
-            curr.next = end;
-            end = curr;
+        ListNode curr= head;
+        ListNode end =null;
+        while(curr !=null){
+            ListNode temp = curr.next ;
+
+            curr.next = end ;
+            end =curr;
             curr = temp;
-
         }
-
         return end;
 
     }
@@ -49,9 +48,9 @@ public class ReversList {
         l1.next.next = new ListNode(3);
         l1.next.next.next = new ListNode(4);
         l1.next.next.next.next = new ListNode(5);
-        //  System.out.println(reverseList(l1).val);
-        //      System.out.println(ReversList.revList(l1).val);
-        System.out.println(ReversList.middleNode(l1).val);
+         //System.out.println(reverseList(l1).val);
+        System.out.println(ReversList.revList(l1));
+        //System.out.println(ReversList.middleNode(l1).val);
     }
 
 
